@@ -1,4 +1,4 @@
-# Smart Image Compressor
+# Image Compressor
 
 基于 Electron + React + TypeScript 的图片压缩桌面应用。
 
